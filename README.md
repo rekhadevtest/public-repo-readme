@@ -2,28 +2,6 @@
 
 update
 
-
-
-\# Git Rebase Practice
-
-
-
-This repository is used to practice Git fundamentals such as:
-
-
-
-\- Branching
-
-\- Rebase
-
-\- Cherry-pick
-
-\- Revert
-
-\- .gitignore usage
-
-
-
 \## Workflow Practiced
 
 1\. Create feature branches
